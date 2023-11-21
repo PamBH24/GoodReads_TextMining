@@ -1,6 +1,7 @@
 # GoodReads_TextMining
-Webscraping and analyzing book reviews on GoodReads. 01/14/2020: PLEASE NOTE THAT DUE TO CHANGES TO RSELENIUM, THE WEBSCRAPING CODE IS NOW BROKEN. THIS CODE IS JUST FOR REFERENCE NOW.
+COMMITEANDO ESTE ARCHIVO CLONADO
 
+Webscraping and analyzing book reviews on GoodReads. 01/14/2020: PLEASE NOTE THAT DUE TO CHANGES TO RSELENIUM, THE WEBSCRAPING CODE IS NOW BROKEN. THIS CODE IS JUST FOR REFERENCE NOW.
 
 Part 1: webscraping
 - GR_article_part1.Rmd = R markdown of the article
